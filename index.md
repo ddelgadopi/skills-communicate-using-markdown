@@ -7,3 +7,7 @@ Created a pull request and edited the index.md file.
 seno = 0.5 * np.sin(2 * np.pi * f1 * t)
 coseno = 0.5 * np.cos(2 * np.pi * f2 * t)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
